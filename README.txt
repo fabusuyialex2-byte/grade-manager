@@ -7,7 +7,7 @@ see averages and letter grades, and view a ranked class report.
 
 HOW TO RUN
 ----------
-1. Install Python 3 (no extra packgit --versionages needed).
+1. Install Python 3 (no extra packages needed).
 2. Open a terminal in the folder containing grade_manager.py.
 3. Run:   python grade_manager.py      (or python3 grade_manager.py)
 
@@ -33,6 +33,7 @@ class_report.csv  Created when you choose option 9.
 NOTES
 -----
 - Scores must be numbers from 0 to 100; invalid input is re-asked.
+- After each action the program waits for Enter before showing the menu again.
 - If students.json is missing or empty, the program starts with an empty
   class. If it is corrupted, it is renamed to students.json.bak.
 - Student names are not case-sensitive ("ada" and "Ada" are the same student).
