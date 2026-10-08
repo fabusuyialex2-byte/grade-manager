@@ -15,7 +15,7 @@ DATA_FILE = "students.json"      # where all student data is saved
 CSV_FILE = "class_report.csv"    # where the exported report goes
 
 # Grade boundaries: (minimum average, letter). Change these to suit your school.
-GRADE_BOUNDARIES = [(90, "A"), (80, "B"), (70, "C"), (60, "D")]
+GRADE_BOUNDARIES = [(90, "A"), (80, "B"), (70, "C"), (60, "D"),(50, "E")]
 FAIL_GRADE = "F"
 
 

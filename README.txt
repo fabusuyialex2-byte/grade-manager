@@ -21,7 +21,7 @@ MENU OPTIONS
 
 GRADING SCALE
 -------------
-A: 90-100   B: 80-89   C: 70-79   D: 60-69   F: below 60
+A: 90-100   B: 80-89   C: 70-79   D: 60-69   E: 50-59   F: below 50
 (Edit GRADE_BOUNDARIES at the top of the code to change this.)
 
 FILES
